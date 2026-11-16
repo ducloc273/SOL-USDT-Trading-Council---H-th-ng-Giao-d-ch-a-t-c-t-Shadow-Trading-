@@ -1,0 +1,87 @@
+{
+  "AI": {
+    "TAO": "Bittensor",
+    "FET": "Artificial Superintelligence Alliance",
+    "RENDER": "Render",
+    "RNDR": "Render",
+    "WLD": "World",
+    "NEAR": "NEAR Protocol",
+    "ARKM": "Arkham",
+    "VIRTUAL": "Virtuals Protocol",
+    "GRT": "The Graph"
+  },
+  "DeFi": {
+    "AAVE": "Aave",
+    "UNI": "Uniswap",
+    "INJ": "Injective",
+    "ENA": "Ethena",
+    "CRV": "Curve DAO",
+    "MKR": "Maker",
+    "SKY": "Sky",
+    "LDO": "Lido DAO",
+    "RUNE": "THORChain",
+    "COMP": "Compound",
+    "PENDLE": "Pendle",
+    "SUSHI": "Sushi"
+  },
+  "GameFi": {
+    "GALA": "Gala",
+    "AXS": "Axie Infinity",
+    "IMX": "Immutable",
+    "SAND": "The Sandbox",
+    "BEAM": "Beam",
+    "RONIN": "Ronin",
+    "PIXEL": "Pixels",
+    "YGG": "Yield Guild Games",
+    "MANA": "Decentraland"
+  },
+  "RWA": {
+    "ONDO": "Ondo",
+    "QNT": "Quant",
+    "LINK": "Chainlink",
+    "RSR": "Reserve Rights",
+    "POLYX": "Polymesh",
+    "CFG": "Centrifuge"
+  },
+  "Layer1": {
+    "ETH": "Ethereum",
+    "SOL": "Solana",
+    "SUI": "Sui",
+    "AVAX": "Avalanche",
+    "ADA": "Cardano",
+    "TON": "Toncoin",
+    "BNB": "BNB",
+    "TRX": "TRON"
+  },
+  "Layer2": {
+    "ARB": "Arbitrum",
+    "OP": "Optimism",
+    "ZK": "ZKsync",
+    "STRK": "Starknet",
+    "ZRO": "LayerZero"
+  },
+  "Meme": {
+    "DOGE": "Dogecoin",
+    "PEPE": "Pepe",
+    "SHIB": "Shiba Inu",
+    "BONK": "Bonk",
+    "FLOKI": "Floki",
+    "WIF": "dogwifhat"
+  },
+  "Payments": {
+    "XRP": "XRP Ledger",
+    "LTC": "Litecoin",
+    "BCH": "Bitcoin Cash",
+    "XLM": "Stellar",
+    "DASH": "Dash"
+  },
+  "Infrastructure": {
+    "FIL": "Filecoin",
+    "ICP": "Internet Computer",
+    "APT": "Aptos",
+    "SEI": "Sei",
+    "HYPE": "Hyperliquid",
+    "TIA": "Celestia",
+    "ATOM": "Cosmos"
+  }
+}

@@ -1,0 +1,5 @@
+# Định dạng sự kiện theo Asia/Ho_Chi_Minh (mặc định).
+# YYYY-MM-DD HH:MM | Tên sự kiện
+# Ví dụ minh hoạ, KHÔNG phải lịch xác thực:
+# 2027-01-10 20:30 | Example CPI release
+# Không chép file mẫu này thành events.txt để dùng thật; hãy tự kiểm chứng lịch.

@@ -1,0 +1,10 @@
+{
+  "account": 1000.0,
+  "risk_pct": 1.0,
+  "fee_pct": 0.1,
+  "slip_pct": 0.02,
+  "interval": "4h",
+  "min_trades": 30,
+  "atr_stop": 1.5,
+  "rr": 2.0
+}
