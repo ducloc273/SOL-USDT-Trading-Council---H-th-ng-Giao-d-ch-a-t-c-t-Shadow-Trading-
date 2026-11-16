@@ -1,0 +1,21 @@
+{
+  "autoshadow.py": "fe9cb13b3d3558a80ad0a9b6aa07e581c3109f6ce5d160d1db782a4223bd5033",
+  "pullback.py": "37c6952fd3a89710100781a22f8f5925402fed3101727766f0b9b05482194410",
+  "fill.py": "18adace44226ecb103158401358b2667dc0fc309d738a4264782216666a563c6",
+  "council.py": "40e6db2595aec84a608f8b9627e4584432e02087869d31901569e078dc94058e",
+  "paper.py": "5e47f59312c5f6ff7208d668d9ceafa401dd4476f4703eeb89bc40fead1dce8c",
+  "scanner.py": "cbf84320554997b3cc7ddbfce59c1a9a02c966a76d017cf9562841311a0a5f83",
+  "liquidity.py": "7c3ff561736f493a16bf8a1cf5f4b0a112576ace208ecf22ddf5b923411de948",
+  "market_regime.py": "efb716365126dd101444964a48d89ce89d8552bdb33136ffe78bbbadbf30e5ec",
+  "narrative.py": "829fab938e679679ffbfc3d0beb81d1d0131bad19e87bbabb2dde42d2f7b5099",
+  "narrative_map.json": "5270467c17617f5068aee01d6d1e884ee12d767ee50576786c4e1b99c0fef0c5",
+  "event_gate.py": "0c62f0ef376b07a17f2d494a4e48955b09283f0427b2f8b5338df691c8465300",
+  "council_server.py": "afe14e0f6d9bb8645e3c7b67f71f5958c5c7ea24ca52635008ba1c87b569fe66",
+  "telegram_bot.py": "e71d063e8101de21a37d7e42bd5e689ec267d163730f971c206d6dafa0141dba",
+  "diagnose.py": "5e09b7417a914222d3f92d05d64123af10ad1ed4114ef024e6764d6229f341b0",
+  "selftest_auto.py": "a1b4100dfe8c4ed686eb6a67ecdd5dd2a81e486a025c4339abbde70279dabfbc",
+  "start_bot.bat": "d87d8cddcdba6c282aced4a8b70bcc6fb73ea9c3eb6ac9943d6967f5542a0f12",
+  "requirements.txt": "504eb1566d080d97c9f3a563dd9aaaa4153b76d49f0218e4c8e7c31b5506c870",
+  "README_NANG_CAP_V2.md": "8ec7efe758046ddb6698d5bf2f444a89e71efa313a33242faf2fe87eb86b76b6",
+  "tests/test_upgrade.py": "b6b718af95ff0cb1e85e75dfcebca9f46b99329dbd9b849b9102df83aa2dd4fb"
+}
